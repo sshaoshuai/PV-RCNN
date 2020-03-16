@@ -13,7 +13,7 @@ We present a novel and high-performance 3D object detection framework, named Poi
 ![teaser](https://sshaoshuai.github.io/content/images/PVRCNN_min.png)
 
 ## Code 
-We are still sorting out the codes of PV-RCNN, which will be integrated into the PyTorch-based 3D detection codebase [[PointCloudDet3D]](https://github.com/sshaoshuai/PointCloudDet3D) later. 
+We are still sorting out the codes of PV-RCNN, which will be integrated into the PyTorch-based 3D detection codebase [[PCDet]](https://github.com/sshaoshuai/PointCloudDet3D) later. 
 
 
 ## Citation
