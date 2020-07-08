@@ -5,7 +5,7 @@ This repo is for our CVPR 2020 paper `PointVoxel-RCNN` for 3D object detection f
 [[arXiv]](https://arxiv.org/abs/1912.13192) &nbsp;
 
 
-**Code**: Please refer to [[OpenLidarPerceptron]](https://github.com/open-mmlab/OpenLidarPerceptron/) for the codes of PV-RCNN. 
+**Code**: Code is avaiable in [[OpenPCDet]](https://github.com/open-mmlab/OpenPCDet). 
 
 **Authors**: Shaoshuai Shi, Chaoxu Guo, Li Jiang, Zhe Wang, Jianping Shi, Xiaogang Wang, Hongsheng Li.
 
