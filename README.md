@@ -17,7 +17,7 @@ We present a novel and high-performance 3D object detection framework, named Poi
 ![teaser](https://sshaoshuai.github.io/content/images/PVRCNN_min.png)
 
 ## Code 
-PV-RCNN codes have been released to [[OpenLidarPerceptron]](https://github.com/open-mmlab/OpenLidarPerceptron/).
+PV-RCNN codes have been released to [[OpenPCDet]](https://github.com/open-mmlab/OpenPCDet/).
 
 
 ## Citation
